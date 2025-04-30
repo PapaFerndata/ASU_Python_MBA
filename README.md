@@ -6,15 +6,20 @@ This repository contains Python scripts developed during my MBA program at Arizo
 
 ## 📚 Lessons Completed
 
-### ✅ Lesson 1 – Print Statements
-- Mastered basic printing with different formatting
-- Used escape characters (`\n`, `\"`) and `end=` arguments
+✅ **Lesson 1 – Print Statements**
+- Mastered basic printing with different formatting  
+- Used escape characters (`\n`, `\t`) and `end=` arguments  
 - Practiced combining strings and outputs
 
-### ✅ Lesson 2 – Variables and Arithmetic
-- Created and used variables to store and manipulate data
-- Converted minutes to hours and calculated speed
+✅ **Lesson 2 – Variables and Arithmetic**
+- Created and used variables to store and manipulate data  
+- Converted minutes to hours and calculated speed  
 - Learned variable naming rules and Python's print behavior
+
+✅ **Lesson 3 – Numeric Operations and Precedence**
+- Explored arithmetic, modulo, exponentiation, and floor division  
+- Practiced bitwise logic and operator precedence  
+- Applied Boolean logic and functions from Python’s `math` module
 
 ---
 
